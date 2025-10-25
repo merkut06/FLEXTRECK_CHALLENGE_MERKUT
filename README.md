@@ -16,8 +16,7 @@ The primary challenge involved predicting anomaly flags in energy consumption da
 - **Imbalanced Dataset:** Significant class imbalance between normal and anomalous behavior
 - **Irregular Time Series:** Non-uniform temporal patterns across different sites
 - **Site Heterogeneity:** Each site exhibited unique consumption patterns and characteristics
-- **Data Quality:** Missing values and inconsistent measurement intervals
-
+- 
 ### Phase 2: Capacity Prediction
 Forecasting energy capacity requirements based on historical consumption patterns and site-specific features.
 
