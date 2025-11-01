@@ -16,6 +16,15 @@ This repository contains our solution for the FlexTrack Challenge 2025 Competiti
 **Final Phase:** Competition Phase  
 **Primary Approach:** LSTM-based time series modeling
 
+<p align="center">
+  <img src="flextrack_results_description/competition_phase.png.png" alt="Competition Phase"  width="45%"/>
+  <img src="flextrack_results_description/final_phase.png.png" alt="Final Phase" width="45%"/>
+</p>
+
+<p align="center">
+  <b>Our Results In The Competition By Phases</b>
+</p>
+
 ## Problem Statement
 
 ### Phase 1: Flag Prediction
