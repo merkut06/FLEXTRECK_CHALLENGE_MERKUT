@@ -17,8 +17,8 @@ This repository contains our solution for the FlexTrack Challenge 2025 Competiti
 **Primary Approach:** LSTM-based time series modeling
 
 <p align="center">
-  <img src="flextrack_results_description/competition_phase.png.png" alt="Competition Phase"  width="45%"/>
-  <img src="flextrack_results_description/final_phase.png.png" alt="Final Phase" width="45%"/>
+  <img src="flextrack_results_description/competition_phase.png" alt="Competition Phase"  width="45%"/>
+  <img src="flextrack_results_description/final_phase.png" alt="Final Phase" width="45%"/>
 </p>
 
 <p align="center">
