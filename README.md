@@ -4,6 +4,9 @@
 
 This repository contains our solution for the FlexTrack Challenge 2025 Competition - Flag(Anomaly) Detection and Capacity Prediction Competition, which focused on predicting energy consumption anomalies (flags) and capacity forecasting across multiple energy sites. Our approach achieved competitive results with geometric mean F1 scores ranging from **72.0 to 72.4** in the competition phase, representing one of the most consistent and best-performing solutions.
 
+To dive deeper into the concept and inspiration behind this project, check out my detailed Medium article:  
+👉 [Integrating Renewable Energy Sources Into Smart Cities](https://ydogu159.medium.com/integrating-renewable-energy-sources-into-smart-cities-76e814b8b17f)
+
 <p align="center">
   <img src="flextrack_results_description/main_idea_of_flextrack.png"/>
 </p>
