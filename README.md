@@ -7,17 +7,6 @@ This repository contains our solution for the FlexTrack Challenge 2025 Competiti
 To dive deeper into the concept and inspiration behind this project, check out my detailed Medium article:  
 👉 [Integrating Renewable Energy Sources Into Smart Cities](https://ydogu159.medium.com/integrating-renewable-energy-sources-into-smart-cities-76e814b8b17f)
 
-<p align="center">
-  <img src="flextrack_results_description/main_idea_of_flextrack.png"/>
-</p>
-
-<p align="center">
-  <b>Main Purpose Of The Competition</b>
-</p>
-
-**Competition Duration:** 1.5 months  
-**Final Phase:** Competition Phase  
-**Primary Approach:** LSTM-based time series modeling
 
 <p align="center">
   <img src="flextrack_results_description/competition_phase.png" alt="Competition Phase"  width="45%"/>
@@ -28,7 +17,21 @@ To dive deeper into the concept and inspiration behind this project, check out m
   <b>Our Results In The Competition By Phases</b>
 </p>
 
+**Competition Duration:** 1.5 months  
+**Final Phase:** Competition Phase  
+**Primary Approach:** LSTM-based time series modeling
+
+
+
 ## Problem Statement
+
+<p align="center">
+  <img src="flextrack_results_description/main_idea_of_flextrack.png"/>
+</p>
+
+<p align="center">
+  <b>Main Purpose Of The Competition</b>
+</p>
 
 ### Phase 1: Flag Prediction
 The primary challenge involved predicting anomaly flags in energy consumption data across multiple sites. Key challenges included:
@@ -36,7 +39,7 @@ The primary challenge involved predicting anomaly flags in energy consumption da
 - **Imbalanced Dataset:** Significant class imbalance between normal and anomalous behavior
 - **Irregular Time Series:** Non-uniform temporal patterns across different sites
 - **Site Heterogeneity:** Each site exhibited unique consumption patterns and characteristics
-- 
+  
 ### Phase 2: Capacity Prediction
 Forecasting energy capacity requirements based on historical consumption patterns and site-specific features.
 
