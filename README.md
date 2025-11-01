@@ -1,12 +1,29 @@
-# International Energy Competition - Flag(Anomaly) Detection and Capacity Prediction
+# FlexTrack Challenge 2025 Competition - Flag(Anomaly) Detection and Capacity Prediction
 
 ## Overview
 
-This repository contains our solution for the International Energy Competition, which focused on predicting energy consumption anomalies (flags) and capacity forecasting across multiple energy sites. Our approach achieved competitive results with geometric mean F1 scores ranging from **72.0 to 72.4** in the competition phase, representing one of the most consistent and best-performing solutions.
+This repository contains our solution for the FlexTrack Challenge 2025 Competition - Flag(Anomaly) Detection and Capacity Prediction Competition, which focused on predicting energy consumption anomalies (flags) and capacity forecasting across multiple energy sites. Our approach achieved competitive results with geometric mean F1 scores ranging from **72.0 to 72.4** in the competition phase, representing one of the most consistent and best-performing solutions.
+
+<p align="center">
+  <img src="flextrack_results_description/main_idea_of_flextrack.png"/>
+</p>
+
+<p align="center">
+  <b>Main Purpose Of The Competition</b>
+</p>
 
 **Competition Duration:** 1.5 months  
 **Final Phase:** Competition Phase  
 **Primary Approach:** LSTM-based time series modeling
+
+<p align="center">
+  <img src="flextrack_results_description/competition_phase.png" alt="Competition Phase"  width="45%"/>
+  <img src="flextrack_results_description/final_phase.png" alt="Final Phase" width="45%"/>
+</p>
+
+<p align="center">
+  <b>Our Results In The Competition By Phases</b>
+</p>
 
 ## Problem Statement
 
